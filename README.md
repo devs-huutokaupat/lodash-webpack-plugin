@@ -1,4 +1,4 @@
-# lodash-webpack-plugin
+# lodash-webpack-plugin -- including Webpack 5 support https://github.com/lodash/lodash-webpack-plugin/pull/173
 
 Create smaller Lodash builds by replacing [feature sets](#feature-sets) of modules
 with [noop](https://lodash.com/docs#noop), [identity](https://lodash.com/docs#identity),
